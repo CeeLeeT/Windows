@@ -2,8 +2,8 @@
 
 ## Images
 
-![GitHub Logo](https://ceeleet.files.wordpress.com/2020/05/pngwave95.png?w=650&h=593&crop=1)
-#Format: ![Alt Text](url)
+![GitHub Logo](https://ceeleet.files.wordpress.com/2021/03/windows_grass_bluescreen.jpg?resize=768,768&strip=info)
+# Format: ![Alt Text](url)
 
 ## Blockquotes
 
