@@ -2,12 +2,15 @@
 # Format: ![Alt Text](url)
 
 ### Windows GoD Mode aktivieren
-
- Auf dem Desktop einen Ordner `GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}` erstellen
+Auf dem Desktop einen Ordner `GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}` erstellen
  
- ### Windows Startup Folder
+### Windows Startup Folder
+Ausführen > `shell:startup`
  
- Ausführen > `shell:startup`
+### CMD - Secure Erase Files
+_Erzeugt eine TEMP datei die speicher frei gibt_
+`cipher /w:C:`
+ 
 
 
 ## Blockquotes
