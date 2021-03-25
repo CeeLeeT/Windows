@@ -1,7 +1,3 @@
-## Welcome to GitHub Pages
-
-## Images
-
 ![GitHub Logo](https://ceeleet.files.wordpress.com/2021/03/windows_grass_bluescreen.jpg?resize=768,768&strip=info)
 # Format: ![Alt Text](url)
 
